@@ -1,6 +1,6 @@
 ##       0x16. C - Simple Shell
 
- A simple UNIX command interpreter project by ** Hannah Muthoni and Lilian Wanjiku ** 
+ A simple UNIX command interpreter project by **Hannah Muthoni and Lilian Wanjiku** 
 
 
 ###  Requirements
@@ -98,10 +98,10 @@ $
 
 #### Tasks
 
-##### * 0. Betty would be proud
+####  0. Betty would be proud
 > Write a beautiful code that passes the Betty checks
 
-##### * 1 Simple shell 0.1
+####  1 Simple shell 0.1
 
 > Write a UNIX command line interpreter.
 
@@ -145,14 +145,14 @@ env-environ.c  exec    fork    mypid   ppid   printenv  promptc  shell     stat 
 #cisfun$ julien@ubuntu:~/shell$
 ```
 
-##### * 2. Simple shell 0.2
+####  2. Simple shell 0.2
 
 > Simple shell 0.1 +
 
 * Handle command lines with arguments
 
 
-##### * 3. Simple shell 0.3
+####  3. Simple shell 0.3
 
 > Simple shell 0.2 +
 
@@ -178,7 +178,7 @@ drwx------ 3 root   root   4096 Dec  5 12:07 systemd-private-062a0eca7f2a4434973
 julien@ubuntu:~/shell$ 
 ```
 
-###### * 4. Simple shell 0.4
+#### 4. Simple shell 0.4
 
 > Simple shell 0.3 +
 
@@ -187,7 +187,7 @@ julien@ubuntu:~/shell$
 * You don’t have to handle any argument to the built-in `exit`
 
 
-##### * 5. Simple shell 1.0
+#### 5. Simple shell 1.0
 
 > Simple shell 0.4 +
 
